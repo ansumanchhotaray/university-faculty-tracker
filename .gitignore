@@ -1,27 +1,19 @@
-# Compiled binaries and executables
-tracker
-tracker.exe
+# Compiled software targets and binaries
 *.exe
+tracker
+*.o
+*.obj
+*.bin
 *.out
 *.app
 
-# Compiled object files
-*.o
-*.obj
-
-# Debug files and temporary caches
+# Debug symbols and temporary caches
 *.pdb
 *.ilk
 *.dSYM/
-*.su
-*.idb
-*.Opt
 __pycache__/
 *.py[cod]
 .vscode/
 .idea/
 *.swp
 *~
-
-# Runtime binary backups
-tracker_backup.bin

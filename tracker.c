@@ -235,18 +235,18 @@ void trim_whitespace(char *str) {
     }
 }
 
-// Copies src into dest as lowercase, ensuring null termination
+// Copies src into dest as lowercase using strncpy bounds guards
 void to_lowercase_copy(char *dest, const char *src, size_t dest_size) {
     if (!dest || !src || dest_size == 0) {
         return;
     }
 
-    size_t i = 0;
-    while (src[i] != '\0' && i < dest_size - 1) {
-        dest[i] = (char)tolower((unsigned char)src[i]);
-        i++;
+    strncpy(dest, src, dest_size - 1);
+    dest[dest_size - 1] = '\0';
+
+    for (size_t i = 0; dest[i] != '\0'; i++) {
+        dest[i] = (char)tolower((unsigned char)dest[i]);
     }
-    dest[i] = '\0';
 }
 
 // Splits a query string by whitespace into lowercase tokens
