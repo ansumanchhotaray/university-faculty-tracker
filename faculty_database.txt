@@ -1,0 +1,601 @@
+Dr. Srinivas S|Dean, SAS, Professor HAG|G23-A, AB-2|SAS|srinivas.s@vitap.ac.in
+Dr. Dilipkumar Mohanty|Dean, SMEC, Professor Grade 1|310-H, AB-1|SMEC|mohanty.dk@vitap.ac.in
+Dr. Y. V. Pavan Kumar|Dean SENSE, Professor Grade 1|422-G, AB-1|SENSE|pavankumar.yv@vitap.ac.in
+Dr. Sudhakar Ilango|Dean, SCOPE, Professor Grade 1|705, CB|SCOPE|sudhakar.ilango@vitap.ac.in
+Dr. Benarji Chakka|Dean, VSL, Professor HAG|416-A, AB-2|VSL|benarji.chakka@vitap.ac.in
+Dr. Priyanka Ghosh|Dean In-Charge, VISH, Associate Professor Grade 1|224-A, AB-2|VISH|dean.vish@vitap.ac.in
+Dr. M Venkata Rajanikanth|Dean Academic Research, Professor Grade 1|313-A, AB-1|SAS|rajanikanth.machavaram@vitap.ac.in
+Dr.Arunkumar Sivakumar|Dean In Charge, VSB, Associate Professor Senior|410, AB-1|VSB|arunkumar.sivakumar@vitap.ac.in
+Dr. Jagadish Chandra Mudiganti|Registrar, Professor HAG|N/A|SENSE|mudiganti.jc@vitap.ac.in
+Dr. P Arulmozhivarman|Vice Chancellor (I/c)|CB G08|SENSE|vc@vitap.ac.in
+Dr. Saroj Kumar Panigrahy|Associate-Dean, SCOPE, Professor Grade 1|705, CB|SCOPE|saroj.panigrahy@vitap.ac.in
+Dr. Usha Seshadri|Associate Dean, VSB, Associate Professor Grade 2|410, AB-1|VSB|usha.seshadri@vitap.ac.in
+Dr. Ananthu S Hari|Assistant Dean VSL, Assistant Professor Senior Grade 2|416-D, AB-2|VSL|ananthu.s.hari@vitap.ac.in
+Dr. Vemula Ramakrishna Reddy|Head, Dept. of Mathematics, Associate Professor Grade 1|G23-I, AB-2|SAS|ramakrishna.reddy@vitap.ac.in
+Dr. Nagaraju Devarakonda|Head, Dept. of Software and System Engineering, Professor Grade 2|707 - H, CB|SCOPE|nagaraju.devarakonda@vitap.ac.in
+Dr. Gurumurthy Komanapalli|Head, Dept. of Micro and Nano Electronics, Associate Professor Grade 1|422-B, AB-1|SENSE|gurumurthy.k@vitap.ac.in
+Dr. Subhasish Mahapatra|Head, Dept. of Embedded Systems, Associate Professor Grade 1|422-C, AB-1|SENSE|subhasish.m@vitap.ac.in
+Dr. Khairnar Vikas Vishnu|Head, Dept. of Communications and Signal Processing, Associate Professor Grade 1|422-A, AB-1|SENSE|vikas.vishnu@vitap.ac.in
+Dr. Reeja S R|Head, Dept. of Artificial Intelligence and Machine Learning. Professor Grade 2|706-D, CB|SCOPE|reeja.sr@vitap.ac.in
+Dr. G.Muneeswari|Head, Dept. of Data Science and Engineering, Professor Grade 2|104-F, CB|SCOPE|muneeswari.g@vitap.ac.in
+Dr. Nagarjuna Neella|Head, Dept. of Physics, Assistant Professor Senior Grade 1|225-C, AB-2|SAS|nagarjuna.neela@vitap.ac.in
+Dr. Illa Ramakanth|Head, Dept. of Chemistry, Associate Professor Senior|204-A, CB|SAS|ramakanth.illa@vitap.ac.in
+Dr. Anil Vitthalrao Turukmane|Head, Dept. of Networking and Security, Professor Grade 2|620-O, CB|SCOPE|anil.turukmane@vitap.ac.in
+Dr. Ch. Naresh|Head, Dept. of Electrical Engineering, Assistant Professor Senior Grade 2|422-D, AB-1|SENSE|naresh.ch@vitap.ac.in
+Dr. Deepanjan. K|Head, Dept. of Social Sciences, Assistant Professor Senior Grade 1|224-B, AB-2|VISH|deepanjan.k@vitap.ac.in
+Dr. Sanziou Boro|Head, Dept. of Humanities, Assistant Professor Senior Grade 2|723 - J, CB|VISH|sanziou.b@vitap.ac.in
+Dr. V R K Murty|Emeritus professor|130, AB-1|SAS|vrkm@vitap.ac.in
+Dr. Mary Chandini Stephens|Emeritus Professor|202-F , AB-2|VISH|marychandini.y@vit.ac.in
+Dr. Hari Seetha|Professor HAG|707 - E, CB|SCOPE|seetha.hari@vitap.ac.in
+Dr. N Madhusudhana Rao|Dean, Academics, Professor HAG|G-36, AB-1|SAS|madhusudhana.n@vitap.ac.in
+Dr. Pankaj Balkrishna Tambe|Professor HAG|145, AB-1|SMEC|pankaj.tambe@vitap.ac.in
+Dr. P S Rama Sreekanth|Professor HAG|129, AB-1|SMEC|sreekanth.p@vitap.ac.in
+Dr. Ravindra Dhuli|Professor HAG|144, AB-1|SENSE|ravindra.d@vitap.ac.in
+Dr. K Senthil|Professor HAG|707 - B, CB|SAS|senthil.k@vitap.ac.in
+Dr. Edara Sreenivasa Reddy|Professor HAG|103 - G, CB|SCOPE|sreenivasareddy.e@vitap.ac.in
+Dr. Prabha Selvaraj|Professor Grade 2|706 - E, CB|SCOPE|prabha.s@vitap.ac.in
+Dr. Raghavendra|Professor Grade 2|410, AB-1|VSB|raghavendra@vitap.ac.in
+Dr. Dasari Venkata Lakshmi|Professor Grade 2|103 - F, CB|SCOPE|venkatalakshmi.d@vitap.ac.in
+Dr. Eswaraiah Rayachoti|Professor Grade 2|620-H, CB|SCOPE|eswaraiah.rayachoti@vitap.ac.in
+Dr. Y Narasimha Rao|Professor Grade 2|626 - A, CB|SCOPE|y.narasimharao@vitap.ac.in
+Dr. Sumesh E. P|Professor Grade 2|N/A|SENSE|sumesh.ep@vitap.ac.in
+Dr. Vasavi Sanikommu|Professor Grade 2|706 - A, CB|SCOPE|vasavi.sanikommu@vitap.ac.in
+Dr. Syamala Murali Krishna|Professor Grade 2|706 - I, CB|SCOPE|muralikrishna.s@vitap.ac.in
+Dr. Rupa Chiramadasu|Professor Grade 2|103 - A, CB|SCOPE|rupa.chiramadasu@vitap.ac.in
+Dr. Nalluri Purnachand|Professor Grade 1|128, AB-1|SENSE|purnachand.n@vitap.ac.in
+Dr. Umakanta Nanda|Professor Grade 1|326-E, AB-1|SENSE|umakanta.n@vitap.ac.in
+Dr. Deepak Ch|Professor Grade 1|329-I, AB-1|SENSE|deepak.ch@vitap.ac.in
+Dr. Anoop Kumar Mishra|Professor Grade 1|328-A, AB-1|SENSE|anoop.m@vitap.ac.in
+Dr. Sameeulla Khan Md|Professor Grade 1|G-36, AB-1|SENSE|sameeulla.k@vitap.ac.in
+Dr. Ambuj Sharma|Professor Grade 1|328-I , AB-1|SMEC|sharma.ambuj@vitap.ac.in
+Dr. Jayendra Kumar|Professor Grade 1|326-D, AB-1|SENSE|kumar.jayendra@vitap.ac.in
+Dr. Sudha Ellison Mathe|Professor Grade 1|206, CB|SENSE|ellison.mathe@vitap.ac.in
+Dr. R. Nandha Kumar|Professor Grade 1|421, CB|SCOPE|nandha.r@vitap.ac.in
+Dr. Nuthakki Venkata Rajasekhar|Professor Grade 1|229-B, AB-1|SENSE|rajasekhar.venkata@vitap.ac.in
+Dr. Manoj Kumar Gupta|Professor Grade 1|424-D, AB-1|SMEC|manoj.gupta@vitap.ac.in
+Dr. Sibi Chakkaravarthy S|Professor Grade 1|222, CB|SCOPE|chakkaravarthy.sibi@vitap.ac.in
+Dr. Sunny Dayal Vanambathina|Professor Grade 1|214, AB-1|SENSE|sunny.dayal@vitap.ac.in
+Dr. Manikanta Ravindra Kumar Vakkalagadda|Professor Grade 1|401, CB|SMEC|ravindra.v@vitap.ac.in
+Dr. Aravapalli Rama Satish|Professor Grade 1|615-H, CB|SCOPE|rama.satish@vitap.ac.in
+Dr. Paramasivam R|Professor Grade 1|125-E, AB-2|SAS|paramasivam.r@vitap.ac.in
+Dr. Harikiran Jonnadula|Professor Grade 1|812 - N, CB|SCOPE|harikiran.j@vitap.ac.in
+Dr. Selvakumar Karuthapandi|Professor Grade 1|125-G, AB-2|SAS|selvakumar.k@vitap.ac.in
+Dr. Ganesh Reddy Karri|Professor Grade 1|221, CB|SCOPE|ganesh.reddy@vitap.ac.in
+Dr. P. Kuppusamy|Professor Grade 1|812 - D, CB|SCOPE|kuppusamy.p@vitap.ac.in
+Dr. Naga Jagadesh Bommagani|Professor Grade 1|707 - F, CB|SCOPE|nagajagadesh.bommagani@vitap.ac.in
+Dr Sachi Nandan Mohanty|Professor Grade 1|104-I, CB|SCOPE|sachinandan.m@vitap.ac.in
+Dr. Bharathi V C|Professor Grade 1|707 - C, CB|SCOPE|bharathi.vc@vitap.ac.in
+Dr. Hemant Kumar Reddy|Professor Grade 1|706 - B, CB|SCOPE|hemanth.reddy@vitap.ac.in
+Dr. Srinivasa Reddy Konda|Professor Grade 1|312, CB|SCOPE|srinivasareddy.k@vitap.ac.in
+Dr. Anupriya Elumalai|Professor Grade 1|312, CB|SCOPE|anupriya.e@vitap.ac.in
+Dr. Kalapraveen Bagadi|Professor Grade 1|126, AB-1|SENSE|kalapraveen.b@vitap.ac.in
+Dr. Suresh Dara|Professor Grade 1|618 - L, CB|SCOPE|suresh.d@vitap.ac.in
+Dr. Tarun Narayan Shankar|Professor Grade 1|706 - C, CB|SCOPE|tarun.shankar@vitap.ac.in
+Dr. Mithilesh Kumar Dubey|Professor Grade 1|706 - F, CB|SCOPE|mithileshkumar.dubey@vitap.ac.in
+Dr. Kiran Kumar Nallamekala|Professor Grade 1|817 - E, CB|SENSE|kirankumar.n@vitap.ac.in
+Dr. K Uma Mahendra Kumar|Professor Grade 1|207-A, AB2|SAS|umamahendra.k@vitap.ac.in
+Dr. Marriboyina Sreedevi|Professor Grade1|706-H, CB|SCOPE|sreedevi.marriboyina@vitap.ac.in
+Dr. John Pradeep D|Associate Professor Senior|G-31, AB-1|SENSE|john.darsy@vitap.ac.in
+Dr. Khadheer Pasha Sk|Associate Professor Senior|125, AB-1|SAS|khadheerpasha.sk@vitap.ac.in
+Dr. E. Ajith Jubilson|Associate Professor Senior|816-H, CB|SCOPE|ajith.jubilson@vitap.ac.in
+Dr. Santanu Mandal|Associate Professor Senior|320-B, AB-2|SAS|santanu.mandal@vitap.ac.in
+Dr. Roopas Kiran Sirugudu|Associate Professor Senior|G-36, AB-1|SAS|roopaskiran.s@vitap.ac.in
+Dr. Hussain Syed|Associate Professor Senior|623-A, CB|SCOPE|hussain.syed@vitap.ac.in
+Dr. J Sudagar|Associate Professor Senior|214, AB-1|SAS|sudagar.jothi@vitap.ac.in
+Dr. Deepasikha Mishra|Associate Professor Senior|326-G, AB-1|SCOPE|deepasikha.mishra@vitap.ac.in
+Dr. Debajit Goswami|Associate Professor Senior|214, AB-1|SAS|debajit.g@vitap.ac.in
+Dr. Hari Kishan Kondaveeti|Associate Professor Senior|816 - E, CB|SCOPE|kishan.kondaveeti@vitap.ac.in
+Dr. Suyog Jhavar|Associate Professor Senior|313-F, AB-1|SMEC|suyog.jhavar@vitap.ac.in
+Dr. Shaiku Shahida Saheb|Associate Professor Senior|425-E, AB-1|VSB|shahid.sk@vitap.ac.in
+Dr. Ravi Kumar Bandaru|Associate Professor Senior|124-C, AB-2|SAS|ravikumar.bandaru@vitap.ac.in
+Dr. Pulluri Harish|Associate Professor Senior|224-K, AB2|SENSE|harish.pulluri@vitap.ac.in
+Dr.Viswanathan|Associate Professor Senior|816-J, CB|SCOPE|viswanathan@vitap.ac.in
+Dr. Sudhakar M|Associate Professor Grade 2|G23-B, AB-2|SAS|sudhakar.matle@vitap.ac.in
+Dr. Phani Kumar M|Associate Professor Grade 2|G23-C, AB-2|SAS|phani.m@vitap.ac.in
+Dr. Soubhagya Sankar Barpanda|Associate Professor Grade 2|707-D, CB|SCOPE|soubhagya.barpanda@vitap.ac.in
+Dr. Arun Kumar Sinha|Associate Professor Grade 2|328-D, AB-1|SENSE|arunkumar.s@vitap.ac.in
+Dr. Samineni Peddakrishna|Associate Professor Grade 2|132, AB-1|SENSE|samineni.peddakrishna@vitap.ac.in
+Dr. S. Gopikrishnan|Associate Professor Grade 2|816 - K, CB|SCOPE|gopikrishnan.s@vitap.ac.in
+Dr. Rohit Lorenzo|Associate Professor Grade 2|158, AB-1|SENSE|rohit.lorenzo@vitap.ac.in
+Dr. Bappadittya Roy|Associate Professor Grade 2|313-E, AB-1|SENSE|bappadittya.roy@vitap.ac.in
+Dr. Lakhan Dev Sharma|Associate Professor Grade 2|154, AB-1|SENSE|lakhan.sharma@vitap.ac.in
+Dr. Rajeev Sharma|Associate Professor Grade 2|310-E, AB-1|SENSE|rajeev.sharma@vitap.ac.in
+Dr. Prashanth Maroju|Associate Professor Grade 2|325-A, AB-2|SAS|prashanth.m@vitap.ac.in
+Dr. Arindam Dey|Associate Professor Grade 2|618 - O, CB|SCOPE|arindam.dey@vitap.ac.in
+Dr. Bolem Sai Chandana|Associate Professor Grade 2|812 - M, CB|SCOPE|saichandana.bolem@vitap.ac.in
+Dr. M. Sucharitha|Associate Professor Grade 2|108, AB-1|SENSE|sucharitha.jackson@vitap.ac.in
+Dr. Neeraj Kumar Misra|Associate Professor Grade 2|163, AB-1|SENSE|neeraj.misra@vitap.ac.in
+Dr. Ashish Gupta|Associate Professor Grade 2|328-H, AB-1|SENSE|ashish.gupta@vitap.ac.in
+Dr. Virendra Kumar Verma|Associate Professor Grade 2|622 - P, CB|SAS|virendra.verma@vitap.ac.in
+Dr. M Azees|Associate Professor Grade 2|204-F, CB|SCOPE|azees.m@vitap.ac.in
+Dr. Surendra Reddy Vinta|Associate Professor Grade 2|620-N, CB|SCOPE|surendrareddy.vinta@vitap.ac.in
+Dr. K N V P S Rajesh|Associate Professor Grade 2|141, AB-1|SENSE|rajesh.k@vitap.ac.in
+Dr. Naga Prasad Puvvada|Associate Professor Grade 2|707 - A, CB|SAS|nagaprasad.p@vitap.ac.in
+Dr. T Ramana|Associate Professor Grade 2|623-B CB|SAS|ramana.t@vitap.ac.in
+Dr. Suma Kamalesh Gandhimathi|Associate Professor Grade 2|620-K, CB|SCOPE|sumakamalesh.g@vitap.ac.in
+Dr. D. Kothandaraman|Associate Professor Grade 2|706 - G, CB|SCOPE|kothandaraman.d@vitap.ac.in
+Dr. Bandaru Ramakrishna|Associate Professor Grade 2|143, AB-1|SENSE|ramakrishna.bandaru@vitap.ac.in
+Dr. Pamulapati Ashok Reddy|Associate Professor Grade 2|619-N, CB|SCOPE|ashokreddy.p@vitap.ac.in
+Dr. Saroja Kumar Rout|Associate Professor Grade 2|816 - I, CB|SCOPE|sarojakumar.rout@vitap.ac.in
+Dr. Srikanth Busa|Associate Professor Grade 2|621 - M, CB|SCOPE|srikanth.busa@vitap.ac.in
+Dr. Arun Kumar Marandi|Associate Professor Grade 2|620-I, CB|SCOPE|arunkumar.marandi@vitap.ac.in
+Dr. Regonda Nagaraju|Associate Professor Grade 2|626 - H, CB|SCOPE|nagaraju.regonda@vitap.ac.in
+Dr. Jawahar Muthusamy|Associate Professor Grade 2|817 - K, CB|SCOPE|jawahar.muthusamy@vitap.ac.in
+Dr. Duvvuri Sri Satya Sita Rama Sarath Babu|Associate Professor Grade 2|1014-E, CB|SENSE|sarath.duvvuri@vitap.ac.in
+Dr. Satyanarayana Badeti|Associate Professor Grade 1|G 23-J, AB-2|SAS|satyanarayana.b@vitap.ac.in
+Dr. Maddikera Kalyan Chakravarthi|Associate Professor Grade 1|N/A|SENSE|kalyanchakravarthi.m@vitap.ac.in
+Dr. Venkatrajam Marka|Associate Professor Grade 1|229-A, AB-1|SAS|v.marka@vitap.ac.in
+Dr. Asish Kumar Dalai|Associate Professor Grade 1|819 - M, CB|SCOPE|asish.d@vitap.ac.in
+Dr. Ravi Sankar Barpanda|Associate Professor Grade 1|622 - O, CB|SCOPE|ravi.barpanda@vitap.ac.in
+Dr. Manmadha Rao Banki|Associate Professor Grade 1|326-A, AB-1|SAS|rao.manmadha@vitap.ac.in
+Dr. Sandipan Maiti|Associate Professor Grade 1|G02-C, AB-2|SCOPE|sandipan.maiti@vitap.ac.in
+Dr. Tufan Ghosh|Associate Professor Grade 1|125-D, AB-2|SAS|tufan.ghosh@vitap.ac.in
+Dr. Neha Gupta|Associate Professor Grade 1|328-G, AB-1|SENSE|neha.gupta@vitap.ac.in
+Dr. Nandam Ashok|Associate Professor Grade 1|125-B, AB-2|SAS|nandam.ashok@vitap.ac.in
+Dr. Chalasani Rajesh|Associate Professor Grade 1|229-C, AB-1|SAS|rajesh.c@vitap.ac.in
+Dr. Kumar Debasis|Associate Professor Grade 1|223, CB|SCOPE|kumar.debasis@vitap.ac.in
+Dr. Chandan Kumar Pandey|Associate Professor Grade 1|153, AB-1|SENSE|chandan.pandey@vitap.ac.in
+Dr. Agam Das Goswami|Associate Professor Grade 1|155, AB-1|SENSE|agam.goswami@vitap.ac.in
+Dr. Somya Ranjan Sahoo|Associate Professor Grade 1|615 - A, CB|SCOPE|somyaranjan.sahoo@vitap.ac.in
+Dr. Suseela Vappangi|Associate Professor Grade 1|310-D, AB-1|SENSE|suseela.v@vitap.ac.in
+Dr. Chandu D S|Associate Professor Grade 1|151, AB-1|SENSE|chandu.ds@vitap.ac.in
+Dr. Vikash Kumar Singh|Associate Professor Grade 1|G-36, AB-1|SCOPE|vikash.singh@vitap.ac.in
+Dr. Karthika Natarajan|Associate Professor Grade 1|623-N, CB|SCOPE|karthika.n@vitap.ac.in
+Dr. Sheela Jayachandran|Associate Professor Grade 1|615 - B, CB|SCOPE|sheela.j@vitap.ac.in
+Dr. Monali Bordoloi|Associate Professor Grade 1|626 - O, CB|SCOPE|monali.b@vitap.ac.in
+Dr. Sukanta Nayak|Associate Professor Grade 1|225-K, AB-2|SAS|sukanta.nayak@vitap.ac.in
+Dr .Prabhakaran Thandapani|Associate Professor Grade 1|819 - D, CB|SAS|prabhakaran.thandapani@vitap.ac.in
+Dr. Dripta De Joarder|Associate Professor Grade 1|816 - L, CB|SAS|dripta.joarder@vitap.ac.in
+Dr. Nagendra Panini Challa|Associate Professor Grade 1|816 - D, CB|SCOPE|nagendra.challa@vitap.ac.in
+Dr. Pradosh Ranjan Sahoo|Associate Professor Grade 1|329-D, AB-1|SENSE|pradosh.sahoo@vitap.ac.in
+Dr. Atul Shankar Mani Tripathi|Associate Professor Grade 1|G02-A, AB-2|SENSE|atul.tripathi@vitap.ac.in
+Dr. Pratheep Kumar|Associate Professor Grade 1|224-J, AB-2|SAS|pratheep.kumar@vitap.ac.in
+Dr. Sachil Sharma|Associate Professor Grade 1|813 - H, CB|SAS|sachil.sharma@vitap.ac.in
+Dr. Rajarshi Sarkar|Associate Professor Grade 1|623-D, CB|SAS|rajarshi.sarkar@vitap.ac.in
+Dr. Khasim Syed|Associate Professor Grade 1|812 - K, CB|SCOPE|syed.khasim@vitap.ac.in
+Dr. Saladi Saritha|Associate Professor Grade 1|169, AB-1|SENSE|saritha.saladi@vitap.ac.in
+Dr. Santosh Kumar Sahu|Associate Professor Grade 1|310-C, AB1|SMEC|santoshkumar.sahu@vitap.ac.in
+Dr. Manish Kumar Singh|Associate Professor Grade 1|326-B, AB-1|SENSE|mksingh@vitap.ac.in
+Dr. M. Krishnasamy|Associate Professor Grade 1|424-G, AB-1|SENSE|krishnasamy@vitap.ac.in
+Dr. Sambhudutta Nanda|Associate Professor Grade 1|329-B, AB-1|SENSE|sambhudutta.n@vitap.ac.in
+Dr. M.Muneeswaran|Associate Professor Grade 1|128-G, CB|SAS|muneeswaran.m@vitap.ac.in
+Dr. Rafael Gonzalez Macho|Associate Professor Grade 1|G24-I, AB-2|VISH|rafael.gonzalez@vitap.ac.in
+Dr. Sudharshan Vadnala|Associate Professor Grade 1|813 - C, CB|SAS|sudharshan.v@vitap.ac.in
+Dr. Muthu Prabhu S|Associate Professor Grade 1|621 - E, CB|SAS|muthuprabhu.s@vitap.ac.in
+Dr. Mohit Kumar|Associate Professor Grade 1|328-J, AB-1|SENSE|mohitkumar@vitap.ac.in
+Dr. G D V Santhosh Kumar|Associate Professor Grade 1|168, AB-1|SENSE|santhosh.gdv@vitap.ac.in
+Dr. G. Soma Sekhar|Associate Professor Grade 1|410, AB-1|VSB|somasekhar.g@vitap.ac.in
+Dr. Girish Kumar Mekala|Associate Professor Grade 1|310-F, AB-1|SENSE|girishkumar.m@vitap.ac.in
+Dr. S. Bharath Bhushan|Associate Professor Grade 1|615 - K, CB|SCOPE|bharathbhushan.s@vitap.ac.in
+Dr. Yepuganti Karuna|Associate Professor Grade 1|148, AB-1|SENSE|karuna.y@vitap.ac.in
+Dr. Rajan Deorao Lanjekar|Associate Professor Grade 1|328-B, AB-1|SMEC|rajan.lanjekar@vitap.ac.in
+Dr. Yallanti Sowjanya Kumari|Associate Professor Grade 1|619-F, CB|SCOPE|sowjanyakumari.y@vitap.ac.in
+Dr. Balusa Bhanu Chander|Associate Professor Grade 1|619-J, CB|SCOPE|bhanuchander.b@vitap.ac.in
+Dr. N Lakshmipathi Anantha|Associate Professor Grade 1|619-M, CB|SCOPE|nlakshmipathi.anantha@vitap.ac.in
+Dr. Shaik Subhani|Associate Professor Grade 1|812 - E, CB|SCOPE|subhani.shaik@vitap.ac.in
+Dr. S Satheesh Kumar|Associate Professor Grade 1|422-F, AB-1|SENSE|satheeshkumar.s@vitap.ac.in
+Dr. Varunkumar Anantharaman|Associate Professor Grade 1|816 - A, CB|SCOPE|varunkumar.ka@vitap.ac.in
+Dr. Yelepi Usha Rani|Associate Professor Grade 1|621 - J, CB|SCOPE|usharani.y@vitap.ac.in
+Dr. Ishfaq Ahmad Thaku|Associate Professor Grade 1|410, AB-1|VSB|ishfaqahmad.thaku@vitap.ac.in
+Dr. Manas Ranjan Dash|Associate Professor Grade 1|818 - H, CB|SAS|manasranjan.dash@vitap.ac.in
+Dr. Sangeeta Adhikari|Associate Professor Grade 1|104-C, CB|SAS|sangeeta.adhikari@vitap.ac.in
+Dr. Mohammad Sirajuddin|Associate Professor Grade 1|816 - C, CB|SCOPE|sirajuddin.md@vitap.ac.in
+Dr. Inampudi Govardhana Rao|Associate Professor Grade 1|816 - O, CB|SCOPE|govardhanarao.i@vitap.ac.in
+Dr. A V Narendra Kumar|Associate Professor Grade 1|626 - D, CB|SAS|narendrakumar.av@vitap.ac.in
+Dr. Narayana Thota|Associate Professor Grade 1|621 - L, CB|SAS|narayana.thota@vitap.ac.in
+Dr. Amit Bhaskar|Associate Professor Grade 1|415-G, AB-2|VSL|amit.bhaskar@vitap.ac.in
+Dr. Javvaji Venkata Kanaka Ratnam|Associate Professor Grade 1|626 - G, CB|SCOPE|jvk.ratnam@vitap.ac.in
+Dr. Sunkesula Moulana Abdul Kalam Azad|Associate Professor Grade 1|162, AB-1|SENSE|abdulkalam.a@vitap.ac.in
+Dr. Venkatesh B|Associate Professor Grade 1|615 - O, CB|SCOPE|venkatesh.b@vitap.ac.in
+Dr. Paritala Jhansirani|Associate Professor Grade 1|817 - L, CB|SCOPE|jhansirani.p@vitap.ac.in
+Dr. Manimuthu A|Associate Professor Grade 1|168, AB-1|SCOPE|manimuthu.a@vitap.ac.in
+Dr. Arkdev|Associate Professor Grade 1|615-D, CB|SENSE|ark.dev@vitap.ac.in
+Dr. Kanhaiya Sharma|Associate Professor Grade 1|817 - B, CB|SCOPE|kanhaiya.sharma@vitap.ac.in
+Dr. Debmalya Das|Associate Professor Grade 1|818 - L, CB|SAS|debmalya.das@vitap.ac.in
+Dr.Prakash Kumar Sarangi|Associate Professor Grade 1|CB, 817-D|SCOPE|prakashkumar.sarangi@vitap.ac.in
+Dr. K Sree Divya|Associate Professor Grade 1|1013 - J, CB|SCOPE|sreedivya.k@vitap.ac.in
+Dr. Venkata Subbarao Bala Chaitanya Duvvury|Associate Professor Grade 1|1014-H, CB|SENSE|balachaitanya.duvvury@vitap.ac.in
+Dr. Rasheda Parveen|Assistant Professor Senior Grade 2|G24-C, AB-2|VISH|rasheda.p@vitap.ac.in
+Dr. Manoj Kumar Mishra|Assistant Professor Senior Grade 2|G-31, AB-1|SAS|manoj.m@vitap.ac.in
+Dr. Tannistha Dasgupta|Assistant Professor Senior Grade 2|G24-B, AB-2|VISH|dasgupta.tannistha@vitap.ac.in
+Dr Lakshmi Sowjanya Pali|Assistant Professor Senior Grade 2|125-C, AB-2|SAS|lakshmi.sowjanya@vitap.ac.in
+Dr. R Sinuvasan|Assistant Professor Senior Grade 2|124-N, AB-2|SAS|sinuvasan.r@vitap.ac.in
+Dr. Sabeel M Basheer|Assistant Professor Senior Grade 2|G24-F, AB-2|SAS|sabeel.basheer@vitap.ac.in
+Dr. Soumyakanta Prusty|Assistant Professor Senior Grade 2|125-I, AB-2|SAS|soumyakanta.p@vitap.ac.in
+Dr. Yada Nandukumar|Assistant Professor Senior Grade 2|307-J, AB-2|SAS|nandukumar.y@vitap.ac.in
+Dr. Lalitha Kumari Pappala|Assistant Professor Senior Grade 2|615 - F, CB|SCOPE|lalitha.p@vitap.ac.in
+Dr. Udit Narayana Kar|Assistant Professor Senior Grade 2|623-O, CB|SCOPE|Uditnarayana.k@vitap.ac.in
+Dr. V. Raja|Assistant Professor Senior Grade 2|G24-H, AB-2|SAS|raja.v@vitap.ac.in
+Dr. Afzal Hussain Shahid|Assistant Professor Senior Grade 2|816 - N, CB|SCOPE|afzal.hussain@vitap.ac.in
+Dr.Davala Ravi Kumar|Assistant Professor Senior Grade 2|125-F, AB-2|SAS|ravikumar.davala@vitap.ac.in
+Dr. Suresh Jagannadham|Assistant Professor Senior Grade 2|124-G, AB-2|VISH|suresh.jagannadham@vitap.ac.in
+Dr. Debakanta Tripathy|Assistant Professor Senior Grade 2|615 - J, CB|SAS|debakanta.tripathy@vitap.ac.in
+Dr. C Siva Kumar Reddy|Assistant Professor Senior Grade 2|N/A|SAS|sivakumar.reddy@vitap.ac.in
+Dr. V V Sreenivasu M|Assistant Professor Senior Grade 2|G23-D, AB-2|SAS|sreenivasu.mummidivarapu@vitap.ac.in
+Dr. Rajesh Duvvuru|Assistant Professor Senior Grade 2|816 - M, CB|SCOPE|rajesh.duvvuru@vitap.ac.in
+Dr. Beebi Naseeba|Assistant Professor Senior Grade 2|618 -A, CB|SCOPE|beebi.naseeba@vitap.ac.in
+Dr. Chandan Nayak|Assistant Professor Senior Grade 2|328-E, AB-1|SENSE|chandan.nayak@vitap.ac.in
+Dr. Siddique Ibrahim Peer Mohamed|Assistant Professor Senior Grade 2|620-B, CB|SCOPE|siddique.ibrahim@vitap.ac.in
+Dr. Selva Kumar S|Assistant Professor Senior Grade 2|G05, AB-2|SCOPE|selvakumar.s@vitap.ac.in
+Dr. Triveni Rajashekhar Mandlimath|Assistant Professor Senior Grade 2|224-I, AB-2|SAS|triveni.mandlimath@vitap.ac.in
+Dr. Praveen Maurya|Assistant Professor Senior Grade 2|106, AB-1|SENSE|praveen.maurya@vitap.ac.in
+Dr. Prashanth Rajam|Assistant Professor Senior Grade 2|620-G, CB|SCOPE|prashanth.rajam@vitap.ac.in
+Dr. G. Bharath Reddy|Assistant Professor Senior Grade 2|127, AB-1|SENSE|bharathreddy.gudibandi@vitap.ac.in
+Dr. Abdul Kayom Md Khairuzzaman|Assistant Professor Senior Grade 2|156, AB-1|SENSE|kayomabdul@vitap.ac.in
+Dr. Ganesh Kotagiri|Assistant Professor Senior Grade 2|104-E, CB|SAS|ganesh.kotagiri@vitap.ac.in
+Dr. Chirra Venkata Ramireddy|Assistant Professor Senior Grade 2|615 - C, CB|SCOPE|venkataramireddy.chirra@vitap.ac.in
+Dr. Narendra Nath Dutta|Assistant Professor Senior Grade 2|128-A, CB|SAS|narendranath.d@vitap.ac.in
+Dr. M M Venkata Chalapathi|Assistant Professor Senior Grade 2|312, CB|SCOPE|mmv.chalapthi@vitap.ac.in
+Dr. Kareemulla Shaik|Assistant Professor Senior Grade 2|812 - L, CB|SCOPE|Kareemulla.shaik@vitap.ac.in
+Dr. Radha Mohan Pattanayak|Assistant Professor Senior Grade 2|620-A, CB|SCOPE|radhamohan.pattanayak@vitap.ac.in
+Dr. Bommareddy Lokesh|Assistant Professor Senior Grade 2|723 -M, CB|SCOPE|lokesh.bommareddy@vitap.ac.in
+Dr. Moru Satyanarayana|Assistant Professor Senior Grade 2|621-D, CB|SAS|satyanarayana.moru@vitap.ac.in
+Dr. Ramkumar D|Assistant Professor Senior Grade 2|620-M, CB|SCOPE|ramkumar.d@vitap.ac.in
+Dr. Debanjali Sarkar|Assistant Professor Senior Grade 2|424-E, AB-1|SENSE|debanjali.sarkar@vitap.ac.in
+Dr. Manimaran|Assistant Professor Senior Grade 2|G24-G, AB-2|SAS|manimaran.a@vitap.ac.in
+Dr. Deepthi Godavarthi|Assistant Professor Senior Grade 2|813 - E, CB|SCOPE|deepthi.g@vitap.ac.in
+Dr. Madhusmita Mohanty|Assistant Professor Senior Grade 2|425 C, AB-1|VSB|madhusmita.m@vitap.ac.in
+Dr. Sandhya Sadanandan|Assistant Professor Senior Grade 2|620-C, CB|SAS|sandhya.sadanandan@vitap.ac.in
+Dr. Swati Shukla|Assistant Professor Senior Grade 2|152, AB-1|SENSE|swati.shukla@vitap.ac.in
+Dr. M.Mahesh|Assistant Professor Senior Grade 2|313-C, AB-1|SENSE|mahesh.m@vitap.ac.in
+Dr. S Dasaradha Rama Rao|Assistant Professor Senior Grade 2|813 - B, CB|SAS|dasaradharamarao.s@vitap.ac.in
+Dr. Tauseef Khan|Assistant Professor Senior Grade 2|618 -M, CB|SCOPE|tauseef.khan@vitap.ac.in
+Dr. Kankanala Srinivas|Assistant Professor Senior Grade 2|146, AB-1|SENSE|srinivas.kankanala@vitap.ac.in
+Dr. Ramesh Prasad Panda|Assistant Professor Senior Grade 2|124-B, AB2|SAS|ramesh.panda@vitap.ac.in
+Dr. Saurabh Kharwar|Assistant Professor Senior Grade 2|N/A|SENSE|saurabh.kharwar@vitap.ac.in
+Dr. Anurag De|Assistant Professor Senior Grade 2|618 - C, CB|SCOPE|anurag.de@vitap.ac.in
+Dr. Hanumantharao Bitra|Assistant Professor Senior Grade 2|422-E AB-1|SENSE|hanumantharao.bitra@vitap.ac.in
+Dr. Visalakshi Annepu|Assistant Professor Senior Grade 2|623-L, CB|SCOPE|visalakshi.a@vitap.ac.in
+Dr. Kishor E|Assistant Professor Senior Grade 2|326-C, AB-1|SMEC|kishor.e@vitap.ac.in
+Dr. Kashif Beg|Assistant Professor Senior Grade 2|425-D, AB-1|VSB|kashif.beg@vitap.ac.in
+Dr. B.V.Gokulnath|Assistant Professor Senior Grade 2|626 - E, CB|SCOPE|gokulnath.b@vitap.ac.in
+Dr. Chintakindi Balaram Murthy|Assistant Professor Senior Grade 2|128-E, CB|SCOPE|balaram.ch@vitap.ac.in
+Dr. Naresh Sammeta|Assistant Professor Senior Grade 2|128-C, CB|SCOPE|naresh.s@vitap.ac.in
+Dr. D.Santha Devi|Assistant Professor Senior Grade 2|626 - M, CB|SCOPE|santhadevi.d@vitap.ac.in
+Dr. Mohan Allam|Assistant Professor Senior Grade 2|618 - E, CB|SCOPE|mohan.allam@vitap.ac.in
+Dr. Kosuri Yellareswararao|Assistant Professor Senior Grade 2|125-L, AB-2|SAS|yellareswararao.k@vitap.ac.in
+Dr. Naresh Babu Muddhangala|Assistant Professor Senior Grade 2|425-H, AB1|VSB|nareshbabu.m@vitap.ac.in
+Dr. Ravi Kumar Poluru|Assistant Professor Senior Grade 2|G02-F, AB-2|SCOPE|ravikumar.poluru@vitap.ac.in
+Dr. Pujari Jeevana Jyothi|Assistant Professor Senior Grade 2|619-L, CB|SCOPE|jeevanajyothi.pujari@vitap.ac.in
+Dr. Anil Kumar Nayak|Assistant Professor Senior Grade 2|328-C, AB-1|SENSE|anilkumar.nayak@vitap.ac.in
+Dr. Annapureddy V N Reddy|Assistant Professor Senior Grade 2|619-I, CB|SCOPE|vnreddy.a@vitap.ac.in
+Dr. Palacharla Ravi Kumar|Assistant Professor Senior Grade 2|615 - N, CB|SCOPE|ravikumar.p@vitap.ac.in
+Dr. Guruprakash Jayabalasamy|Assistant Professor Senior Grade 2|128-F, CB|SCOPE|guruprakash.j@vitap.ac.in
+Dr. Susmita Mahato|Assistant Professor Senior Grade 2|329-C, AB-1|SAS|susmita.mahato@vitap.ac.in
+Dr. Shajan Joseph|Assistant Professor Senior Grade 2|225-B, AB-2|SAS|shajan.joseph@vitap.ac.in
+Dr. Karrothu Aravind|Assistant Professor Senior Grade 2|626 - N, CB|SCOPE|aravind.karrothu@vitap.ac.in
+Dr. Kommerla Siva Kumar|Assistant Professor Senior Grade 2|204-E, CB|SCOPE|sivakumar.k@vitap.ac.in
+Dr. Aruru Sai Kumar|Assistant Professor Senior Grade 2|164, AB-1|SENSE|saikumar.a@vitap.ac.in
+Dr. Vivek Upadhyaya|Assistant Professor Senior Grade 2|329-F, AB-1|SENSE|vivek.upadhyaya@vitap.ac.in
+Dr. Sajad Nabi Dar|Assistant Professor Senior Grade 2|620-F, CB|VISH|sajad.nabidar@vitap.ac.in
+Dr. Debasis Dwibedy|Assistant Professor Senior Grade 2|619-K, CB|SCOPE|d.dwibedy@vitap.ac.in
+Dr. Tata Gayathri|Assistant Professor Senior Grade 2|817 - M, CB|SCOPE|gayathri.t@vitap.ac.in
+Dr. Turbasu Sengupta|Assistant Professor Senior Grade 2|818 - F, CB|SAS|turbasu.sengupta@vitap.ac.in
+Dr. Rama Krishna Rongali|Assistant Professor Senior Grade 2|622-A, CB|SAS|ramakrishna.r@vitap.ac.in
+Dr. Mallela Siva Nagaraju|Assistant Professor Senior Grade 2|622-H, CB|SCOPE|sivanagaraju.mallela@vitap.ac.in
+Dr. P Arul Nehru|Assistant Professor Senior Grade 2|424-J, AB-1|VISH|arul.nehru@vitap.ac.in
+Dr. Sivakavi Naga Venkata Bramareswara Rao|Assistant Professor Senior Grade 2|110, AB-1|SENSE|bramareswararao.snv@vitap.ac.in
+Dr. Mohammad Amin Wani|Assistant Professor Senior Grade 2|G24-J, AB-2|VISH|mohammadamin.wani@vitap.ac.in
+Dr. Popuri Srinivasa Rao|Assistant Professor Senior Grade 2|165, AB-1|SCOPE|srinivas.popuri@vitap.ac.in
+Dr. Karnam Balaji|Assistant Professor Senior Grade 2|104-A, CB|SCOPE|karnam.balaji@vitap.ac.in
+Dr. Sourav Ghosh|Assistant Professor Senior Grade 2|224-F1, AB2|SENSE|sourav.ghosh@vitap.ac.in
+Dr. Pallepogu Prasanna Kumar|Assistant Professor Senior Grade 2|621C, CB|SENSE|prasannakumar.pallepogu@vitap.ac.in
+Dr. Kadiyam Rajshekar|Assistant Professor Senior Grade 2|817 - C, CB|SENSE|kadiyam.rajshekar@vitap.ac.in
+Dr. Potnuru Lokeswara Rao|Assistant Professor Senior Grade 2|817-O, CB|SAS|lokeswararao.potnuru@vitap.ac.in
+Dr. Sk. Sazim|Assistant Professor Senior Grade 2|817-I, CB|SAS|sazim.sk@vitap.ac.in
+Dr. Bellamkonda Lakshmi Praveena|Assistant Professor Senior Grade 2|819 - E, CB|SCOPE|lakshmipraveena.bellamkonda@vitap.ac.in
+Dr. Pritesh Kumar Yadav|Assistant Professor Senior Grade 2|812-P, CB|SENSE|pritesh.K@vitap.ac.in
+Dr. Allam Akshaykranth|Assistant Professor Senior Grade 2|1014, CB|SENSE|akshaykranth.allam@vitap.ac.in
+Dr. Viwek Kumar|Assistant Professor Senior Grade 2|1014-B, CB|SMEC|viwek.kumar@vitap.ac.in
+Dr. Uppala Sivaranjan|Assistant Professor Senior Grade 2|1014-K, CB|SAS|sivaranjan.uppala@vitap.ac.in
+Dr. Emandi Jagadeeswara Rao|Faculty|Assistant Professor Senior Grade 2|SENSE|jagadeeswararao.emandi@vitap.ac.in
+Dr. Komandla Mahipal Reddy|Assistant Professor Senior Grade 1|G23-E, AB-2|SAS|mahipal.reddy@vitap.ac.in
+Dr. Sudesh Manger|Assistant Professor Senior Grade 1|G24-E, AB-2|VISH|sudesh.manger@vitap.ac.in
+Dr. Lisna PC|Assistant Professor Senior Grade 1|225-L, AB-2|SAS|lisna.pc@vitap.ac.in
+Dr. Rakhi N K|Assistant Professor Senior Grade 1|225-N, AB-2|VISH|rakhi.nk@vitap.ac.in
+Dr. Pratik Premadarshi Ray|Assistant Professor Senior Grade 1|307-I, AB-2|SAS|pratik.ray@vitap.ac.in
+Dr. Raghavi R. K.|Assistant Professor Senior Grade 1|202-A, AB-2|VISH|raghavi.rk@vitap.ac.in
+Dr. Deepjoy Katuwal|Assistant Professor Senior Grade 1|202-G, AB-2|VISH|deepjoy.katuwal@vitap.ac.in
+Dr. Senthil Murugan|Assistant Professor Senior Grade 1|N/A|SCOPE|senthil.murugan@vitap.ac.in
+Dr. Aswathy R K|Assistant Professor Senior Grade 1|G24-K, AB-2|SAS|aswathy.rk@vitap.ac.in
+Dr. Manomita Chakraborty|Assistant Professor Senior Grade 1|626 - P, CB|SCOPE|manomita.c@vitap.ac.in
+Dr. Kingshuk Sarkar|Assistant Professor Senior Grade 1|325-E, AB-2|SAS|kingshuk.sarkar@vitap.ac.in
+Dr. Ritambhara Sharma|Assistant Professor Senior Grade 1|124-A, AB-2|SAS|ritambhara.sharma@vitap.ac.in
+Dr. Avadhesh Kumar|Assistant Professor Senior Grade 1|307-D, AB-2|SAS|avadhesh.kumar@vitap.ac.in
+Dr. Francis P|Assistant Professor Senior Grade 1|124-K, AB-2|SAS|francis@vitap.ac.in
+Dr. Naveen Kumar Ch|Assistant Professor Senior Grade 1|622- N, CB|VISH|naveen.cherupelly@vitap.ac.in
+Dr. Nallamuthu S|Assistant Professor Senior Grade 1|812 - J, CB|SAS|nallamuthu.s@vitap.ac.in
+Dr. Ajay Dagar|Assistant Professor Senior Grade 1|105, AB-1|SENSE|ajay.dagar@vitap.ac.in
+Dr. Siva Ramakrishna P|Assistant Professor Senior Grade 1|131, AB-1|SENSE|sivaramakrishna.pillutla@vitap.ac.in
+Dr. Varunkumar Merugu|Assistant Professor Senior Grade 1|626 - C, Central Block|SAS|varunkumar.merugu@vitap.ac.in
+Dr.Karunakar Perumandla|Assistant Professor Senior Grade 1|626 - K, CB|SAS|karunakar.perumandla@vitap.ac.in
+Dr. Piu Kundu|Assistant Professor Senior Grade 1|104-G, CB|SAS|piu.kundu@vitap.ac.in
+Dr. Soumen Kundu|Assistant Professor Senior Grade 1|104-H, CB|SAS|soumen.kundu@vitap.ac.in
+Dr. Bibhab Bandhu Majumdar|Assistant Professor Senior Grade 1|622-L, CB|SAS|bibhabbandhu.m@vitap.ac.in
+Dr. Faizan Danish|Assistant Professor Senior Grade 1|320-A, AB-2|SAS|faizan.danish@vitap.ac.in
+Dr. Ann Mary George|Assistant Professor Senior Grade 1|723-L, CB|VISH|annmary.g@vitap.ac.in
+Dr. Sayyed Faizan Ali|Assistant Professor Senior Grade 1|N/A|SENSE|faizan.ali@vitap.ac.in
+Dr. Joseph Alugula|Assistant Professor Senior Grade 1|813 - F, CB|VISH|joseph.a@vitap.ac.in
+Dr. Ramesh A|Assistant Professor Senior Grade 1|813 - G, CB|SAS|ramesh.a@vitap.ac.in
+Dr. Pranav Anand Ojha|Assistant Professor Senior Grade 1|415-D, AB-2|VSL|pranavanand.o@vitap.ac.in
+Dr. Debosmita Biswas|Assistant Professor Senior Grade 1|723 - K, CB|VISH|debosmita.b@vitap.ac.in
+Dr. Abdul Raffie Naik|Assistant Professor Senior Grade 1|G24-L, AB-2|VISH|abdulraffie.naik@vitap.ac.in
+Dr. Venkata Bhikshapathi Chenam|Assistant Professor Senior Grade 1|812 - F, CB|SCOPE|venkatab.chenam@vitap.ac.in
+Dr. Gokul Yenduri|Assistant Professor Sr Grade 1|619-H, CB|SCOPE|gokul.yenduri@vitap.ac.in
+Dr. N.Prabhakar|Assistant Professor Senior Grade 1|425-I , AB-1|VSB|prabhakar.n@vitap.ac.in
+Dr. Pokuri Srinivasa Rao|Assistant professor senior Grade 1|620-L, CB|SCOPE|pokuri.srinivasarao@vitap.ac.in
+Dr. Devulapalli Sudheer|Assistant Professor senior grade 1|104-D, CB|SCOPE|sudheer.d@vitap.ac.in
+Dr. Koduru Hajarathaiah|Assistant Professor Senior Grade 1|618 - D, CB|SCOPE|hajarathaiah.k@vitap.ac.in
+Dr. V.Sri Lakshmi|Assistant Professor Senior Grade 1|723 - O, CB|SCOPE|srilakshmi.v@vitap.ac.in
+Dr. Sunkara Kalyani|Assistant Professor Senior Grade 1|G02-G, AB-2|SCOPE|kalyani.s@vitap.ac.in
+Dr. Kailash Chandra Mishra|Assistant Professor Senior Grade 1|623-C, CB|SCOPE|kailashchandra.mishra@vitap.ac.in
+Dr. Priyanka Singh|Assistant Professor Senior Grade 1|626 - J, CB|SCOPE|priyanka.singh@vitap.ac.in
+Dr. Shirin Naresh Patil|Assistant Professor Senior Grade 1|147, AB1|SMEC|shirin.patil@vitap.ac.in
+Dr. Moumita Saha|Assistant Professor Senior Grade 1|424-F, AB-1|SENSE|moumita.saha@vitap.ac.in
+Dr. Posham Uppamma|Assistant Professor Senior Grade 1|620-E, CB|SCOPE|uppamma.posham@vitap.ac.in
+Dr. Bensha C. Shaji|Assistant Professor Senior Grade 1|416-C, AB-2|VSL|bensha.shaji@vitap.ac.in
+Dr. Dwarasala Adilakshmi|Assistant Professor Senior Grade 1|G24-D, AB-2|SAS|adilakshmi.d@vitap.ac.in
+Dr. Kritika Bansal|Assistant Professor Senior Grade 1|424-A, AB-1|SENSE|kritika.b@vitap.ac.in
+Dr. T Rama Thulasi|Assistant Professor Senior Grade 1|620-D, CB|SCOPE|ramathulasi.t@vitap.ac.in
+Dr. Sanal Kumar T S|Assistant Professor Senior Grade 1|615 - L, CB|SCOPE|N/A
+Dr. Shalini Ramanathan|Assistant Professor Senior Grade 1|723 - N, CB|SCOPE|shalini.ramanathan@vitap.ac.in
+Dr. Mohinder Singh. B|Assistant Professor Senior Grade 1|813 - I, CB|SCOPE|mohindersingh.b@vitap.ac.in
+Dr. Kavikumar. R|Assistant Professor Senior Grade 1|310-B, AB1|SAS|kavikumar.r@vitap.ac.in
+Dr. D. Paul Joseph|Assistant Professor Senior Grade 1|623-F, CB|SCOPE|pauljoseph.d@vitap.ac.in
+Dr. Adla Padma|Assistant Professor Senior Grade 1|723 - P, CB|SCOPE|padma.a@vitap.ac.in
+Dr. Amgothu Shanthi|Assistant Professor Senior Grade 1|623-K, CB|SCOPE|shanthi.a@vitap.ac.in
+Dr. Shalini Subramani|Assistant Professor Senior Grade 1|204-D, CB|SCOPE|shalini.subramani@vitap.ac.in
+Dr. K Aravind|Assistant Professor Senior Grade 1|723 - B, CB|SCOPE|aravind.k@vitap.ac.in
+Dr. Ngangbam Indrason|Assistant Professor Senior Grade 1|813 - L, CB|SCOPE|indrason.n@vitap.ac.in
+Dr. Madala Guru Brahmam|Assistant Professor Senior Grade 1|623-M, CB|SCOPE|gurubrahmam.m@vitap.ac.in
+Dr. Renita R|Assistant Professor Senior Grade 1|204-G, CB|SCOPE|renita.r@vitap.ac.in
+Dr. Monalisa Sahu|Assistant Professor Senior Grade 1|626 - I, CB|SCOPE|monalisa.sahu@vitap.ac.in
+Dr. Allapati Rajya Lakshmi|Assistant Professor Senior Grade 1|615 - M, CB|SCOPE|rajyalakshmi.a@vitap.ac.in
+Dr. Jayashree Pradhan|Assistant Professor Senior Grade 1|157, AB-1|SENSE|jayashree.p@vitap.ac.in
+Dr. Ankur Pandey|Assistant Professor Senior Grade 1|424-C, AB-1|SENSE|ankur.p@vitap.ac.in
+Dr. Gayathri Dhara|Assistant Professor Senior Grade 1|623-G, CB|SCOPE|gayathri.d@vitap.ac.in
+Dr. Maheshuni Sankush Krishna|Assistant Professor Senior Grade 1|170, AB-1|SENSE|sankushkrishna.m@vitap.ac.in
+Dr. Lakshminarayana Janjanam|Assistant Professor Senior Grade 1|167, AB-1|SENSE|Lakshminarayana.j@vitap.ac.in
+Dr. Battula Venkata Satish Babu|Assistant Professor Senior Grade 1|618 - F, CB|SCOPE|satishbabu.bv@vitap.ac.in
+Dr. Samuka Mohanty|Assistant Professor Senior Grade 1|618 - G, CB|SCOPE|samuka.mohanty@vitap.ac.in
+Dr. Rajasekhar Boddu|Assistant Professor Senior Grade 1|621 - G, CB|SCOPE|rajasekhar.boddu@vitap.ac.in
+Dr. Ganji Tejasree|Assistant Professor Senior Grade 1|621 - N, CB|SCOPE|tejasree.g@vitap.ac.in
+Dr. Nihar Ranjan Nayak|Assistant Professor Senior Grade 1|818 - G, CB|SAS|nihar.ranjan@vitap.ac.in
+Dr. Bileesh P Babu|Assistant Professor Senior Grade 1|816 - G, CB|SCOPE|bileeshbabu.p@vitap.ac.in
+Dr. Dasari Sandeep|Assistant Professor Senior Grade 1|623-I, CB|SCOPE|dasari.sandeep@vitap.ac.in
+Dr. Shubhadeep Pal|Assistant Professor Senior Grade 1|329-A, AB-1|SAS|shubhadeep.pal@vitap.ac.in
+Dr. Saronath Halder|Assistant Professor Senior Grade 1|159, AB1|SAS|saronath.halder@vitap.ac.in
+Dr. Putta Durga|Assistant Professor Senior Grade 1|817 - N, CB|SCOPE|durga.putta@vitap.ac.in
+Dr. Chattu Kannaiah|Assistant Professor Senior Grade 1|816 - B, CB|SCOPE|kannaiah.ch@vitap.ac.in
+Dr. Dasari Bosu Babu|Assistant Professor Senior Grade 1|104-B, CB|SAS|bosubabu.d@vitap.ac.in
+Dr. Shailja Jain|Assistant Professor Senior Grade 1|626 - L, CB|SAS|shailja.jain@vitap.ac.in
+Dr. Gangadhar Pamarthi|Assistant Professor Senior Grade 1|622-B, CB|SAS|gangadhar.p@vitap.ac.in
+Dr. Manas Ranjan Panda|Assistant Professor Senior Grade 1|622-M, CB|SAS|manas.panda@vitap.ac.in
+Dr. Thangam Sivanantham|Assistant Professor Senior Grade 1|622-G, CB|SCOPE|thangam.s@vitap.ac.in
+Dr. Shaik Moinuddin Ahmed|Assistant Professor Senior Grade 1|622-J, CB|SCOPE|moinuddin.s@vitap.ac.in
+Dr. Mekathoti Vamsi Kiran|Assistant Professor Senior Grade 1|622-F, CB|SCOPE|vamsikiran.m@vitap.ac.in
+Dr. Venkata Sivanarayana Gayyi|Assistant Professor Senior Grade 1|619-E, CB|SCOPE|sivanarayana.g@vitap.ac.in
+Dr. Madala Gargi|Assistant Professor Senior Grade 1|618 - B, CB|SCOPE|gargi.m@vitap.ac.in
+Dr. Lanka Divya|Assistant Professor Senior Grade 1|615 - E, CB|SCOPE|divya.lanka@vitap.ac.in
+Dr. N Md Jubair Basha|Assistant Professor Senior Grade 1|626 - F, CB|SCOPE|jubairbasha.md@vitap.ac.in
+Dr. Kranthi Kumar Reddy Missal|Assistant Professor Senior Grade 1|111, AB-1|SENSE|kranthi.m@vitap.ac.in
+Dr. Angel Shaji|Assistant Professor Senior Grade 1|415-A, AB-2|VSL|angel.shaji@vitap.ac.in
+Dr. K Durgesh|Assistant Professor Senior Grade 1|107, AB-1|SENSE|durgesh.k@vitap.ac.in
+Dr. Gosala Bethany|Assistant Professor Senior Grade 1|204-B, CB|SCOPE|bethany.gosala@vitap.ac.in
+Dr. Rakesh P S|Assistant Professor Senior Grade 1|415-J, AB-2|VSL|rakesh.ps@vitap.ac.in
+Dr. Zeba Shamsi|Assistant Professor Senior Grade 1|N/A|SCOPE|shamsi.zeba@vitap.ac.in
+Dr. Priya Kumari|Assistant Professor Senior Grade 1|225-F, AB-2|VSL|priya.kumari@vitap.ac.in
+Dr. Mohd Irfan|Assistant Professor Senior Grade 1|171, AB-1|SCOPE|mohd.irfan@vitap.ac.in
+Dr. Y. Raghuvamsi|Assistant Professor Senior Grade-1|329-H, AB-1|SENSE|raghuvamsi.yarlagadda@vitap.ac.in
+Dr. Balaraju Ramesh|Assistant Professor Senior Grade 1|817 - A, CB|SCOPE|balaraju.ramesh@vitap.ac.in
+Dr. Tirumanadham N S Koti Manikumar|Assistant Professor Senior Grade 1|313-G, AB1|SCOPE|tirumanadham.koti@vitap.ac.in
+Dr. Ayesha Khatun|Assistant Professor Senior Grade 1|425-G, AB1|VSB|ayesha.khatun@vitap.ac.in
+Dr. Midde Venkata Siva|Assistant Professor Senior Grade 1|313-B, AB1|SENSE|venkatasiva.midde@vitap.ac.in
+Dr. Kalyani Abhyankar|Assistant Professor Senior Grade 1|225 E, AB2|VSL|kalyani.abhyankar@vitap.ac.in
+Dr. Siba Prasad Mishra|Assistant Professor Senior Grade 1|224-F3, AB-2|SENSE|sibaprasad.mishra@vitap.ac.in
+Dr. Dibyadrasta Sahoo|Assistant Professor Senior Grade 1|224-L, AB2|SENSE|dibyadrasta.sahoo@vitap.ac.in
+Dr. Mattakoyya Aharonu|Assistant Professor Senior Grade 1|202-E, AB2|SCOPE|aharonu.mattakoyya@vitap.ac.in
+Dr. Mullapudi Siva|Assistant Professor Senior Grade 1|124-A2, AB2|SENSE|siva.mullapudi@vitap.ac.in
+Dr. Sonia Das|Assistant Professor Senior Grade 1|125-A2, AB2|SENSE|sonia.das@vitap.ac.in
+Dr. Madduluri Suneetha|Assistant Professor Senior Grade 1|224-F, AB2|SENSE|madduluri.suneetha@vitap.ac.in
+Dr. Meera Patel|Assistant Professor Senior Grade 1|817 - F, CB|SENSE|meera.patel@vitap.ac.in
+Dr. Krishna Prasad Bera|Assistant Professor Senior Grade 1|623-P, CB|SAS|krishnaprasad.bera@vitap.ac.in
+Dr. Mahendra Sahare|Assistant Professor Senior Grade 1|618-A, CB|SCOPE|mahendra.sahare@vitap.ac.in
+Dr. Anshuman Choudhary|Assistant Professor Senior Grade 1|817-J, CB|SENSE|anshuman.choudhary@vitap.ac.in
+Dr. Nilanjan Roy|Assistant Professor Senior Grade 1|817-G, CB|SAS|nilanjan.roy@vitap.ac.in
+Dr. Kuntal Chakraborty|Assistant Professor Senior Grade 1|812-A, CB|SENSE|kuntal.chakraborty@vitap.ac.in
+Dr. Shaik Wasim Akram|Assistant Professor Senior Grade 1|812-C, CB|SCOPE|wasim.shaik@vitap.ac.in
+Dr. Rajesh Velpula|Assistant Professor Senior Grade 1|819-F, CB|SENSE|rajesh.velpula@vitap.ac.in
+Dr. Pichhika Hari Chandana|Assistant Professor Senior Grade 1|819-G, CB|SENSE|harichandana.pichhika@vitap.ac.in
+Dr. Patan Mushiya Katoon|Assistant Professor Senior Grade 1|819-B, CB|SCOPE|mushiyakatoon.patan@vitap.ac.in
+Dr. Praveen Tiwari|Assistant Professor Senior Grade 1|819 - H, CB|SENSE|praveen.tiwari@vitap.ac.in
+Dr. Lolugu Govindarao|Assistant Professor Senior Grade 1|207-B, AB2|SAS|govindarao.lolugu@vitap.ac.in
+Dr. Krishnendu K|Assistant Professor Senior Grade 1|813-A, CB|SENSE|krishnendu.k@vitap.ac.in
+Dr. Mudit Mishra|Assistant Professor Senior Grade 1|160, AB-1|SMEC|mudit.mishra@vitap.ac.in
+Dr. Mamilla Sreenivasulu|Assistant Professor Senior Grade 1|1013 - I, CB|SENSE|sreenivasulu.mamilla@vitap.ac.in
+Dr. Pothi Reddy Krishna Mohan Reddy|Assistant Professor Senior Grade 1|1013-M, CB|SENSE|krishnamohan.p@vitap.ac.in
+Dr. Koyyana Srinivasa Rao|Assistant Professor Senior Grade 1|1013 - N, CB|SENSE|srinivasarao.koyyana@vitap.ac.in
+Dr. Potharaju Ramesh|Assistant Professor Senior Grade 1|1013 - L, CB|SENSE|ramesh.potharaju@vitap.ac.in
+Dr. Buddepu Santhosh Kumar|Assistant Professor Senior Grade 1|N/A|SENSE|santhoshkumar.buddepu@vitap.ac.in
+Dr. V V L Divakar Allavarapu|Assistant Professor Senior Grade 1|N/A|SCOPE|divakar.allavarapu@vitap.ac.in
+Dr. Pradeep Kumar Jena|Assistant Professor Senior Grade 1|N/A|SCOPE|pradeepkumar.jena@vitap.ac.in
+Dr. Charulata Palai|Assistant Professor Senior Grade 1|N/A|SCOPE|charulata.palai@vitap.ac.in
+Dr. Karumanchi Beulah Sujan|Assistant Professor Senior Grade 1|N/A|SENSE|beulahsujan.karumanchi@vitap.ac.in
+Dr. Surla Govindu|Assistant Professor Senior Grade 1|CB,1014-D|SCOPE|govindu.surla@vitap.ac.in
+Dr. Immadi Murali Krishna|Assistant Professor Senior Grade 1|N/A|SCOPE|muralikrishna.immad@vitap.ac.in
+Dr. Naresh Boda|Assistant Professor Senior Grade 1|1014-I, CB|SENSE|naresh.boda@vitap.ac.in
+Ms. CH. Amrita Gulshan|Assistant Professor Grade-2|416-B, AB-2|VSL|amrita.gulshan@vitap.ac.in
+Dr. Chandan Kumar Thakur|Assistant Professor Grade 2|320-F. AB-2|SAS|chandan.thakur@vitap.ac.in
+Dr. Peeyush Singh|Assistant Professor Grade 2|307-A, AB-2|SAS|peeyush.singh@vitap.ac.in
+Dr. Chandan Vishwas|Assistant Professor Grade 2|307-B, AB-2|VISH|chandan.vishwas@vitap.ac.in
+Dr. Manisha Maity|Assistant Professor Grade 2|307-F, AB-2|SAS|manisha.m@vitap.ac.in
+Dr. Nadiminti Nagamani|Assistant Professor Grade 2|325-B, AB-2|SAS|nagamani.n@vitap.ac.in
+Dr. Renuprasad Hemkiran Patki|Assistant Professor Grade 2|325-D, AB-2|VISH|renuprasad.patki@vitap.ac.in
+Dr. Ankita Swetaparna|Assistant Professor Grade 2|325-H, AB-2|VISH|ankita.swetaparna@vitap.ac.in
+Dr. Balasingh V|Assistant Professor Grade 2|723 -F, CB|VISH|balasingh.v@vitap.ac.in
+Dr.N.Rajasekhar|Assistant Professor Grade 2|G23-F, AB-2|SAS|rajashekar.naraveni@vitap.ac.in
+Dr. Arpana Venu|Assistant Professor Grade 2|307-C, AB-2|VISH|arpana.venu@vitap.ac.in
+Mr. Avin Tiwari|Assistant Professor Grade 2|415-C, AB-2|VSL|avin.tiwari@vitap.ac.in
+Dr. Anupama A. P.|Assistant Professor Grade 2|819 - O, CB|VISH|anupama.ap@vitap.ac.in
+Dr. Arun Kumar Yadav|Assistant Professor Grade 2|320-C, AB-2|SAS|arun.yadav@vitap.ac.in
+Dr. Aby Abraham|Assistant Professor Grade 2|723 - G, CB|VISH|a.abraham@vitap.ac.in
+Dr. U M Gopal Krishna|Assistant Professor Grade 2|410 , AB-1|VSB|gopalkrishna.um@vitap.ac.in
+Dr. Karishma Bisht|Assistant Professor Grade 2|124-I, AB-2|VISH|karishma.b@vitap.ac.in
+Dr. Amar Ramesh Wayal|Assistant Professor Grade 2|819 - P, CB|VISH|amar.w@vitap.ac.in
+Dr. Mohd Abdul Muqeet Maaz|Assistant Professor Grade 2|410, AB-1|VSB|muqeet.maaz@vitap.ac.in
+Dr. Vasili B V Nagarjuna|Assistant professor Grade 2|818 - N, CB|SAS|nagarjuna.vasili@vitap.ac.in
+Dr. K. Panduranga|Assistant Professor Grade 2|819 - K, CB|SAS|panduranga.k@vitap.ac.in
+Dr.Santanu Nandi|Assistant Professor Grade 2|623-E, CB|SAS|santanu.nandi@vitap.ac.in
+Ms. Kritika Sahu|Assistant Professor Grade 2|415-B, AB-2|VSL|kirtika.s@vitap.ac.in
+Dr. Neethu P Antony|Assistant Professor Grade 2|125-A1, AB-2|VISH|neethup.antony@vitap.ac.in
+Dr. Amrita Purakayastha|Assistant Professor Grade 2|124-M, AB-2|VISH|amrita.p@vitap.ac.in
+Ms. Malavika Ganta|Assistant Professor Grade 2|415-I, AB-2|VSL|malavika.g@vitap.ac.in
+Dr. G.Siva|Assistant Professor Grade 2|225-M, AB-2|SAS|siva.g@vitap.ac.in
+Dr. Pradip.R.Patle|Assistant Professor Grade 2|124-F, AB-2|SAS|pradip.patle@vitap.ac.in
+Dr. Linet Thomas|Assistant Professor Grade 2|224-H, AB-2|VISH|linet.thomas@vitap.ac.in
+Dr. Prashant Patel|Assistant Professor Grade 2|G23-G, AB-2|SAS|prashant.p@vitap.ac.in
+Dr. Anshul Gopal|Assistant Professor Grade 2|N/A|SAS|anshul.gopal@vitap.ac.in
+Dr. Dibyendu Sekhar Mandal|Assistant Professor Grade 2|202-B, AB-2|SAS|sekharmandal.d@vitap.ac.in
+Dr. Kottu Durga Prasad|Assistant Professor Grade 2|124-L, AB-2|SAS|durgaorasad.k@vitap.ac.in
+Dr. Satyendra Singh Chauhan|Assistant Professor Grade 2|320-E, AB-2|SAS|satyendra.chauhan@vitap.ac.in
+Dr. Suresh Garimella|Assistant Professor Grade 2|224-G, AB-2|VISH|suresh.garimella@vitap.ac.in
+Dr. Amrendra Singh Gill|Assistant Professor Grade 2|325-F, AB-2|SAS|amrendra.gill@vitap.ac.in
+Dr. Farooq Ahmad Mir|Assistant Professor Grade 2|225-A, AB-2|VISH|farooq.mir@vitap.ac.in
+Dr. Narendra Kumar|Assistant Professor Grade 2|310-A, AB-1|SAS|narendrakumar@vitap.ac.in
+Dr. Subhankar Sil|Assistant Professor Grade 2|109, AB-1|SAS|subhankar.sil@vitap.ac.in
+Dr. Swatilekha Sen|Assistant Professor Grade 2|622 - D, CB|VISH|swatilekha.sen@vitap.ac.in
+Dr. Vivek Shukla|Assistant Professor Grade 2|N/A|SAS|vivek.shukla@vitap.ac.in
+Dr. Koteswara Rao Gorantla|Assistant Professor Grade 2|103 - D, CB|SAS|koteswarao.gorantla@vitap.ac.in
+Dr. Abhik Digar|Assistant Professor Grade 2|618 - K , CB|SAS|abhik.digar@vitap.ac.in
+Dr. Saikat Roy|Assistant Professor Grade 2|818 - B, Central Block|SAS|saikat.roy@vitap.ac.in
+Dr. Jyotirmoy Roy|Assistant Professor Grade 2|818 - D, CB|SAS|jyotirmoy.roy@vitap.ac.in
+Dr. Srabani Chakraborty|Assistant Professor Grade 2|618 - H, CB|VISH|srabani.chakraborty@vitap.ac.in
+Dr. Santi Ranjan Das|Assistant Professor Grade 2|619-G, CB|SAS|santiranjan.das@vitap.ac.in
+Dr. Sowndarrajan P T|Assistant Professor Grade 2|424-H, AB-1|SAS|sowndarrajan.pt@vitap.ac.in
+Dr. Soumyadeep Chakraborty|Assistant Professor Grade 2|124-A1, AB-2|VISH|soumyadeep.chakraborty@vitap.ac.in
+Dr. Maneesh P|Assistant Professor Grade 2|124-J, AB2|VISH|maneesh.p@vitap.ac.in
+Dr. Rohit Verma|Assistant Professor Grade 2|812-H, CB|SAS|rohit.verma@vitap.ac.in
+Dr. Abdul Mohsin|Assistant Professor Grade 2|623-H, CB|VISH|abdul.mohsin@vitap.ac.in
+Dr. Bihalan Bhattacharya|Assistant Professor Grade 2|1013-B, CB|SAS|bihalan.bhattacharya@vitap.ac.in
+Dr. Pasupulati Sunil Kumar|Assistant Professor Grade 2|1013 - G, CB|SAS|sunilkumar.pasupulati@vitap.ac.in
+Dr. Divya Singh|Assistant Professor Grade 2|1014-J, CB|SAS|divya.singh@vitap.ac.in
+Dr. Pragya Sengupta|Assistant Professor Grade 1|620-J, CB|VISH|sengupta.pragya@vitap.ac.in
+Dr. Shalini Thakur|Assistant Professor Grade 1|320-D, AB-2|SAS|shalini.thakur@vitap.ac.in
+Dr. Ajmal S Rasaq|Assistant Professor Grade 1|307-H, AB-2|VISH|ajmal.rasaq@vitap.ac.in
+Dr. Mahi S Thavarathu|Assistant Professor Grade 1|N/A|VISH|mahi.thavarathu@vitap.ac.in
+Dr. Anindita Shome|Assistant Professor Grade 1|125-K, AB-2|VISH|anindita.shome@vitap.ac.in
+Dr. Shubhra Ghoshal|Assistant Professor Grade 1|723 - C, CB|VISH|shubhra.ghoshal@vitap.ac.in
+Dr. Neelima Adapa|Assistant Professor Grade 1|723 - D, CB|VISH|neelima.adapa@vitap.ac.in
+Dr. Dheeraj Kumar|Assistant Professor Grade 1|723 - E, CB|VISH|dheeraj.kumar@vitap.ac.in
+Dr. Kotnana Ganesh|Assistant Professor Grade 1|128-H, CB|SAS|ganesh.kotnana@vitap.ac.in
+Dr. Archana Tiwari|Assistant Professor Grade I|128-D, CB|SAS|archana.tiwari@vitap.ac.in
+Ms. Kshama Pandey|Assistant Professor Grade 1|415-E, AB-2|VSL|kshama.p@vitap.ac.in
+Dr. Shobhit Kumar Srivastava|Assistant Professor Grade 1|325-G, AB-2|SAS|shobhit.srivastava@vitap.ac.in
+Dr. Gokulnath|Assistant Professor Grade 1|125-N, AB-2|SAS|gokulnath@vitap.ac.in
+Dr. Naveen Kumar Ranjan|Assistant Professor Grade 1|202-C, AB-2|VISH|naveen.ranjan@vitap.ac.in
+Dr. Vanacharla Pujitha|Assistant Professor Grade 1|723 - A, CB|SAS|pujitha.v@vitap.ac.in
+Dr. Sonali Kaushik|Assistant Professor Grade 1|G24-A, AB-2|SAS|sonali.k@vitap.ac.in
+Dr. Chiranjeev Kumar Shahu|Assistant Professor Grade 1|812 -G, CB|SAS|chiranjeev.s@vitap.ac.in
+Dr. Nimai Sarkar|Assistant Professor Grade 1|307-G, AB-2|SAS|nimai.s@vitap.ac.in
+Dr. Ashraf Pulikkamath|Assistant Professor Grade 1|225-J, AB-2|VISH|ashraf.p@vitap.ac.in
+Dr. Ritu Varghese|Assistant Professor Grade 1|813 - O, CB|VISH|ritu.v@vitap.ac.in
+Dr. Tanmoy Das|Assistant Professor Grade 1|224-E, AB-2|VISH|tanmoy.das@vitap.ac.in
+Dr. Rajashree Naik|Assistant Professor Grade 1|225-G, AB-2|SAS|rajashree.naik@vitap.ac.in
+Dr. Prakash S|Assistant Professor Grade 1|124-D, AB-2|SAS|prakash.s@vitap.ac.in
+Dr. Senthamizhselvi A|Assistant Professor Grade 1|329-G, AB-1|VSB|senthamizhselvi.a@vitap.ac.in
+Dr. Pragnya Parimita Chayani|Assistant Professor Grade 1|813 - J, CB|VISH|pragnyaparimita.ch@vitap.ac.in
+Dr. Jabeen Yasmeen|Assistant Professor Grade 1|813 - P, CB|VISH|jabeen.yasmeen@vitap.ac.in
+Dr. Subhasis Panda|Assistant Professor Grade 1|818 - O, CB|SAS|subhasis.panda@vitap.ac.in
+Dr. Umer Mushtaq Lone|Assistant Professor Grade 1|425-B, AB-1|VSB|umermushtaq.lone@vitap.ac.in
+Dr. Soumik Sarkar|Assistant Professor Grade 1|224-D, AB-2|VISH|soumik.sarkar@vitap.ac.in
+Dr. Pema Choden Bhutia|Assistant Professor Grade 1|124-H, AB-2|VISH|pemachoden.bhutia@vitap.ac.in
+Dr. Mo Faheem|Assistant Professor Grade 1|125-M, AB-2|SAS|faheem.mo@vitap.ac.in
+Dr. S. V. Gomathi|Assistant Professor Grade 1|325-C, AB-2|SAS|gomathi.sv@vitap.ac.in
+Mr. Sidhant Gupta|Assistant Professor Grade 1|415-F, AB-2|VSL|sidhant.gupta@vitap.ac.in
+Ms. Nidhi Nair|Assistant Professor Grade 1|415-H, AB-2|VSL|nidhi.nair@vitap.ac.in
+Dr. Riya|Assistant Professor Grade 1|819 - N, CB|SAS|riya@vitap.ac.in
+Dr. Sane Umesh Reddy|Assistant Professor Grade 1|813 - M, CB|SAS|saneumesh.r@vitap.ac.in
+Dr. SK Ashadul Rahaman|Assistant Professor Grade 1|125-J, AB2|SAS|ashadulrahaman.sk@vitap.ac.in
+Dr. Vishnu V|Assistant Professor Grade 1|813 - K, CB|VISH|vishnu.v@vitap.ac.in
+Dr. Anindita Roy|Assistant Professor Grade 1|819 - L, CB|VISH|anindita.roy@vitap.ac.in
+Dr. Ganesh M|Assistant Professor Grade 1|202-D, AB-2|VISH|ganesh.m@vitap.ac.in
+Dr. Srirupa Poddar|Assistant Professor Grade 1|204-H, CB|VISH|srirupa.p@vitap.ac.in
+Dr. Jyotsna Sharma|Assistant Professor Grade 1|128-B, CB|SAS|jyotsna.sharma@vitap.ac.in
+Dr. Ronali Madhusmita Sahoo|Assistant Professor Grade 1|124-E, AB-2|SAS|ronali.sahoo@vitap.ac.in
+Dr. K Kinjari|Assistant Professor Grade 1|224-C, AB-2|VISH|kinjari.k@vitap.ac.in
+Dr. Krishna Nair J|Assistant Professor Grade 1|307-E, AB-2|VISH|krishnanair.j@vitap.ac.in
+Dr. Akshay Kumar|Assistant Professor Grade 1|204-C, CB|SAS|akshay.kumar@vitap.ac.in
+Dr. Raja Solanki|Assistant Professor Grade 1|621 - H, CB|SAS|raja.solanki@vitap.ac.in
+Dr. Talha Umar|Assistant Professor Grade 1|621 - K, CB|SAS|talha.umar@vitap.ac.in
+Dr. Himanshu Verma|Assistant Professor Grade 1|621 - O, CB|SAS|himanshu.verma@vitap.ac.in
+Dr. Prachi Jain|Assistant Professor Grade 1|618 - P, CB|SAS|prachi.jain@vitap.ac.in
+Dr. Parul Saini|Assistant Professor Grade 1|818 - I, CB|SAS|parul.saini@vitap.ac.in
+Dr. Reddimala Naresh|Assistant Professor Grade 1|818 - E, CB|SAS|naresh.reddimalla@vitap.ac.in
+Dr. Ansumalini Panda|Assistant Professor Senior Grade 1|329-J , AB-1|VSB|ansumalini.panda@vitap.ac.in
+Dr. Santanu Dey|Assistant Professor Grade 1|818 - A, CB|SAS|santanu.dey@vitap.ac.in
+Dr. Monika Srivastava|Assistant Professor Grade 1|225-D, AB-2|VISH|monika.srivastava@vitap.ac.in
+Dr. Keerthi Jain Kushal Jain|Assistant Professor Grade 1|425-A, AB-1|VSB|keerthijain.Kj@vitap.ac.in
+Dr. Banoth Veeranna|Assistant Professor Grade 1|818 - J, CB|SAS|banoth.veeranna@vitap.ac.in
+Dr. Debgopal Sahoo|Assistant Professor Grade 1|818 - K, CB|SAS|debgopal.sahoo@vitap.ac.in
+Dr. Vadithe Rakesh Naik|Assistant Professor Grade 1|328-F, AB-1|VSB|rakeshnaik.v@vitap.ac.in
+Dr. Suman Das|Assistant Professor Grade 1|326 F - AB1|VSB|suman.das@vitap.ac.in
+Dr. Vinay Kumar|Assistant Professor Grade 1|618 -N, CB|SAS|vinay.k@vitap.ac.in
+Dr. Sreenish S|Assistant Professor Grade 1|125-H, AB-2|VISH|sreenish.s@vitap.ac.in
+Dr. Abhilash Chand|Assistant Professor Grade 1|626 - B, CB|SAS|abhilash.chand@vitap.ac.in
+Dr. Arpita Devi|Assistant Professor Grade 1|622-C, Central Block|SAS|arpita.devi@vitap.ac.in
+Dr. Ritesh Ranjan|Assistant Professor Grade 1|622-E, CB|VISH|ritesh.ranjan@vitap.ac.in
+Dr. Komal|Assistant Professor Grade 1|622-I, CB|SAS|komal@vitap.ac.in
+Dr. Manisha Bhadran|Assistant Professor Grade 1|622-K, CB|VISH|manisha.bhadran@vitap.ac.in
+Dr. Muneeswaran R|Assistant Professor Grade 1|424-B, AB-1|SAS|muneeswaran.r@vitap.ac.in
+Dr. Udita Banerjee|Assistant Professor Grade 1|424-I, AB-1|VISH|udita.banerjee@vitap.ac.in
+Dr. Nishi Gupta|Assistant Professor Grade 1|818 - C, CB|SAS|nishi.g@vitap.ac.in
+Dr. Inzamul Sarkar|Assistant Professor Grade 1|225-I, AB-2|VISH|inzamul.sarkar@vitap.ac.in
+Dr. Varna Venugopal|Assistant Professor Grade 1|329-E, AB-1|VISH|varna.venugopal@vitap.ac.in
+Dr. Aishwarya Dhawan|Assistant Professor Grade 1|225 H, AB-2|VISH|aishwarya.dhawan@vitap.ac.in
+Dr. Krishna Priya B|Assistant Professor Grade 1|125-A, AB-2|VISH|krishna.priya@vitap.ac.in
+Dr. Aysha Thasleema K S|Assistant Professor Grade 1|225 A1, AB-2|VISH|aysha.thasleema@vitap.ac.in
+Dr. Uzma Azam|Assistant Professor Grade 1|224-F2, AB2|VISH|uzma.azam@vitap.ac.in
+Dr. Velmala Sharath Kumar|Assistant Professor Grade 1|621A, CB|VISH|sharathkumar.velmala@vitap.ac.in
+Dr. Devarapalli Suman|Assistant Professor Grade 1|615-I, CB|VSB|suman.devarapalli@vitap.ac.in
+Dr. Sinjini Chakraborty|Assistant Professor Grade 1|813-N, CB|VISH|sinjini.chakraborty@vitap.ac.in
+Dr. Parveen|Assistant Professor Grade 1|812-I, CB|SAS|parveen@vitap.ac.in
+Dr. Moumita Ghosh|Assistant Professor Grade 1|812 - O, CB|SAS|moumita.ghosh@vitap.ac.in
+Dr. Reetika Chawla|Assistant Professor Grade 1|819 - I, CB|SAS|reetika.chawla@vitap.ac.in
+Dr. Muhammed Navas K A|Assistant Professor Grade 1|723-I, CB|VISH|muhammed.navas@vitap.ac.in
+Dr. Charu Waliyan|Assistant Professor Grade 1|723-H, CB|VISH|charu.waliyan@vitap.ac.in
+Dr. Kavya R Nair|Assistant Professor Grade 1|207-C, AB-2|SAS|kavya.nair@vitap.ac.in
+Dr. Angana Das|Assistant Professor Grade 1|819 - A, CB|VISH|angana.das@vitap.ac.in
+Dr. Arunava Acharya|Assistant Professor Grade 1|621-F, CB|VISH|arunava.acharya@vitap.ac.in
+Dr. Sharanya Ghosh|Assistant Professor Grade 1|621-I, CB|VISH|sharanya.ghosh@vitap.ac.in
+Dr. Sarath Sasikumar|Assistant Professor Grade 1|817-H, CB|VISH|sarath.sasikumar@vitap.ac.in
+Dr. Arghya Chakraborty|Assistant Professor Grade 1|1013 - A, CB|VISH|arghya.chakraborty@vitap.ac.in
+Dr. Purnendu Bikash Debnath|Assistant Professor Grade 1|CB, 1013-C|VISH|purnendu.debnath@vitap.ac.in
+Dr. Halavath Rajesh|Assistant Professor Grade 1|N/A|VISH|rajesh.halavath@vitap.ac.in
+Dr. Supratik Deb|Assistant Professor Grade 1|1014-N, CB|VSB|supratik.deb@vitap.ac.in
+Ms. Kanaka Himabindu P.|Assistant Professor|202-D1, AB-2|VISH|kanaka.himabindu@vitap.ac.in
+Mr. Jayanta Pratihar|Assistant Professor|816 - F, CB|SCOPE|jayanta.pratihar@vitap.ac.in
+Mr. Gowtham Polumati|Assistant Professor|621-B, CB|SENSE|gowtham.polumati@vitap.ac.in
+Ms. Sruthi Sasidharan|Assistant Professor|818 - M, CB|VISH|sruthi.sasidharan@vitap.ac.in
+Ms. Harapriya Kar|Assistant Professor|819-C, CB|SCOPE|harapriya.kar@vitap.ac.in
+Dr. Bandi Narasimha Rao|Assistant Professor|1013-H,CB|SENSE|narasimharao.bandi@vitap.ac.in
+Mr. Lavati Hemanth Krishna|Assistant Professor|618-I, CB|SENSE|hemanthkrishna.lavati@vitap.ac.in
+Mr. Vangapandu Dhanunjaya Naidu|Assistant Professor|1014-G, CB|SENSE|dhanunjayanaidu.vangapandu@vitap.ac.in
+Mr. Kumar Vaibhav Tejan|Assistant Professor|N/A|SENSE|kumarvaibhav.tejan@vitap.ac.in
+Mr. Gundimeda Venugopal|Professor of Practice|618 - J, CB|SCOPE|venugopal.g@vitap.ac.in
+Sudhir Shenoy S|Adjunct Faculty|Sudhir & Vikas Chartered Accountants , Mangalore|VSB|secretary.vsb@vitap.ac.in
+Dr. Bhanu Prakash Reddy Varla|Adjunct Faculty|Plural Technology Pvt Ltd, EdifyPath, Angel Investor -Graylogic-Urbankisaan- Beenfield, Startup Mentor, Post Doctorate Birla Institute (BIMTECH), TedX Speaker|VSB|secretary1.vsb@vitap.ac.in
+Ms. Yarlagadda Siva Reshma|Assistant Professor Junior|619-O, CB|SCOPE|sivareshma.y@vitap.ac.in
+Mr. Kandru Lakshmi Sai Praneeth|Assistant Professor Junior|619-B, CB|SCOPE|saipraneeth.kl@vitap.ac.in
+Mr. Madugula Kiran Kumar|Assistant Professor Junior|615 -G, CB|SCOPE|kirankumar.m@vitap.ac.in
+Ms. Pechetti Mounika|Assistant Professor Junior|619-D, CB|SCOPE|mounika.p@vitap.ac.in
+Mr. Burla Nagaraju|Assistant Professor Junior|623-J, CB|SCOPE|nagaraju.burla@vitap.ac.in
+Ms. Mannepuli Srujana|Assistant Professor Junior|619-C, CB|SCOPE|srujana.m@vitap.ac.in
+Ms. Paidipogu Sowjanya|Assistant Professor Junior|128-I, CB|SCOPE|sowjanya.paidipogu@vitap.ac.in
+Dr. Jayasankari Senthilganesh|Assistant Professor Senior Grade 1|812-B,CB|SBST|jayasankari.s@vitap.ac.in
+Dr. Mood Rajitha|Assistant Professor Senior Grade 1|1017-K, CB|SBST|rajitha.mood@vitap.ac.in
+Dr. Pranjal Kumar|Assistant Professor Senior Grade 2|819-J, CB|SBST|pranjal.k@vitap.ac.in
+Dr. Kotapati Kasi Viswanath|Associate Professor Senior|1013-P, CB|SBST|kasiviswanath.kotapati@vitap.ac.in
+Dr. Vikas Sharma|Associate Professor Grade 1|1013-E, CB|SBST|vikas.sharma@vitap.ac.in
+Dr. Shraddha Chauhan|Associate Professor Grade 1|1013-F, CB|SBST|shraddha.chauhan@vitap.ac.in
+Dr. Vishal Tripathi|Associate Professor Grade 1|1013-K, CB|SBST|vishal.tripathi@vitap.ac.in
+Dr. Nitu Bhaskar|Professor Grade 1|707-G, CB|SBST|nitu.bhaskar@vitap.ac.in
